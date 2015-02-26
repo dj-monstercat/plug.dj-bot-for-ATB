@@ -103,6 +103,6 @@
     }));
 
     //Start the bot and extend it when it has loaded.
-    javascript:(function(){$.getScript('https://rawgit.com/dj-monstercat/plug.dj-bot-for-ATB/master/script.js');})();
+    javascript:(function(){$.getScript('https://cdn.rawgit.com/dj-monstercat/plug.dj-bot-for-ATB/master/script.js');})();
 
 }).call(this);
